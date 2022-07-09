@@ -1,0 +1,151 @@
+/* Parra Torres Jorge Isaac 
+Luis Angel de la Mora González */
+
+#titulo{
+    background: -webkit-gradient(linear, left top, right top, 
+    color-stop(0%,rgba(255,255,255,0)), 
+    color-stop(50%,rgb(28, 90, 160)), 
+    color-stop(100%,rgba(255,255,255,0)));
+    text-align: center;
+    padding: 6.5px; 
+    color: aliceblue;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    font-size: 15px;
+    border-bottom: 2px solid #000;
+}
+
+body{
+    background: rgb(255, 255, 255);
+    font-size: 13px;
+}
+.container-login100 {
+    background:
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.15) 30%, rgba(255,255,255,.3) 32%, rgba(255,255,255,0) 33%) 0 0,
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.1) 11%, rgba(255,255,255,.3) 13%, rgba(255,255,255,0) 14%) 0 0,
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 17%, rgba(255,255,255,.43) 19%, rgba(255,255,255,0) 20%) 0 110px,
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 11%, rgba(255,255,255,.4) 13%, rgba(255,255,255,0) 14%) -130px -170px,
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 11%, rgba(255,255,255,.4) 13%, rgba(255,255,255,0) 14%) 130px 370px,
+  radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.1) 11%, rgba(255,255,255,.2) 13%, rgba(255, 255, 255, 0) 14%) 0 0,
+  linear-gradient(-20deg, #dbfaff 0%, #bcefff 10%, #bef4fb 20%, #badefb 30%, #62abf0 40%, #11abda 50%, #2d49e2 60%, #000b9e 70%, #011379 90%, #000838 100%);
+  background-size: 270px 270px, 770px 770px, 210px 210px, 410px 410px, 330px 330px, 530px 530px, 150% 150%;
+    
+    width: 100%;  
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: left;
+    padding: 15px;
+    /* background-repeat: no-repeat;     */
+    background-position: center;
+  }
+  
+  .wrap-login100 {
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+.datos{
+    background-color: rgb(241, 241, 241);
+    margin-left: 470px;
+    margin-right: 470px;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+#registro{
+    text-align: left;
+    margin-left: 25px;
+}
+
+#cam{
+    text-align: right;
+    margin-right: 25px;
+}
+
+#escudo img{
+    margin: 10px;
+    margin-bottom: -120px;
+    height: 120px;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.1s;
+}
+
+#escudo img:hover{
+    -webkit-transform: scale(1.1);
+}
+
+.piepagina {
+    position: absolute;
+    bottom: -45%;
+    width: 100%;
+    height: 40px;
+    color: white;
+	border-top: 2px solid #000;
+    font-size: 14px;
+    padding: 15px;
+    text-align: center;
+    background: -webkit-gradient(linear, left top, right top, 
+    color-stop(0%,rgba(0, 0, 0, 0)), 
+    color-stop(50%,rgb(28, 90, 160)), 
+    color-stop(100%,rgba(255,255,255,0)));
+}
+
+
+#contacto{
+    text-align: right;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.iconos{
+    text-align: right;
+    margin-right: 7px;
+    height: 120px;
+}
+
+.icon-facebook2 {
+    color: blue;
+    font-size: 25px;
+    margin: 5px;
+    text-decoration: none;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.1s;
+}
+
+.icon-instagram{
+    color: rgb(207, 15, 121);
+    font-size: 25px;
+    margin: 5px;
+    border:0;
+    text-decoration: none;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.1s;
+}
+
+.icon-twitter{
+    color: rgb(55, 134, 224);
+    font-size: 25px;
+    margin: 5px;
+    text-decoration: none;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.1s;
+}
+
+.icon-youtube{
+    color: red;
+    font-size: 25px;
+    margin: 5px;
+    text-decoration: none;
+    -webkit-transition: -webkit-transform 0.5s ease-in-out 0.1s;
+}
+
+#g2{
+    text-align: center;
+    margin-top: -130px;
+    margin-bottom: 50px;
+}
+
